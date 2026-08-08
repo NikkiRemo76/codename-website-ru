@@ -8,7 +8,7 @@ title: Scripting - Interacting with PlayState
 # TODO
 Объясните, как PlayState обрабатывает скрипты и как взаимодействовать с ними в иерархии библиотеки (Library).
 
-Explain as well that `PlayState Scripts` are a common phrase for identifying scripts running in the State itself.
+Также поясните, что термин `PlayState Scripts` используется для обозначения скриптов, выполняемых непосредственно в самом состоянии (State).
 
 You can also explain why you shouldn't really modify `PlayState` as a Custom State, since they are 2 seperate managers.
 
